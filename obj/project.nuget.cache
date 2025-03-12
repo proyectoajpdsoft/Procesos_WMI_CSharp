@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMaP1D/TXfJ9zIyDO0O0BP+7k5LtrVe5KqB/asflZ0dGW1NWL6Fjgx/3tBH+YsiP5oA694wrKP5+wqXtmHTF3A==",
+  "success": true,
+  "projectFilePath": "D:\\ProyectoA_CSharp\\ProyectoA_Procesos_WMI\\ProyectoA_Procesos_WMI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alonso\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\alonso\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
