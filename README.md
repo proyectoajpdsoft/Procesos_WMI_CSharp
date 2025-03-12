@@ -1,2 +1,1 @@
-# Procesos_WMI_CSharp
- Obtener datos de los procesos en ejecución con C Sharp y WMI
+Cómo obtener los procesos en ejecución y sus datos básicos (nombre de proceso, ruta del ejecutable, id, etc.) mediante Visual Studio .Net C# (C Sharp) y WMI (Windows Management Instrumentation). Incluimos descarga del código fuente completo y gratuito de la aplicación de ejemplo. Para el desarrollo de esta aplicación se usa .NET 6 y Visual Studio .Net Community 2022. Más información en: https://proyectoa.com/obtener-datos-de-los-procesos-en-ejecucion-con-c-sharp-y-wmi/
